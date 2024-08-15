@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Arsh Soni</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 
@@ -7,7 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ML,DL**
+- 🔭 I’m currently working on **Data Analysis & Machine Learning**
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 👯 I’m looking to collaborate on **Data Analysis Projects**
 
 - 📫 How to reach me **arshsoni2002@gmail.com**
 
@@ -25,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshsoni1&show_icons=true&locale=en" alt="arshsoni1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshsoni1&" alt="arshsoni1" /></p>
-
