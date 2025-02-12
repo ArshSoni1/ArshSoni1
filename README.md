@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analysis & Machine Learning**
+- 🔭 I’m currently working on **Data Science & Machine Learning**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Data Analysis Projects**
+- 👯 I’m looking to collaborate on **Data Science Projects**
 
 - 📫 How to reach me **arshsoni2002@gmail.com**
 
