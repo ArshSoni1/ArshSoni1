@@ -1,7 +1,7 @@
-<!-- 🧠 ARSH SONI – DARK TECH PROFILE -->
+<!-- ARSH SONI – DARK THEME PROFILE -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Arsh+Soni;Data+Scientist+%7C+AI+%26+LLM+Engineer;Hardcore+Backend+Techie+with+Math+Core;AI+Agents+%26+Chatbots+with+LangChain+%26+LangGraph;Cyber+Security+Enthusiast+%7C+TryHackMe+Top+2%25" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Arsh+Soni;Data+Scientist+%7C+AI+%26+LLM+Engineer;M.Sc+Mathematics+%26+Computing+%40+IIT+ISM+Dhanbad;AI+Agents+%26+Chatbots+with+LangChain+%26+LangGraph;Cyber+Security+Enthusiast+%7C+TryHackMe+Top+2%25" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,9 +13,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arshsoni1&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/arshsoni1?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Mode-Hardcore%20Dark-000000?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/TryHackMe-Top_2%25-ff0033?style=flat-square&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/Base-India-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-India-111827?style=flat-square" />
 </p>
 
 ---
@@ -24,19 +23,19 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 **M.Sc – Mathematics & Computing, IIT ISM Dhanbad**  
-- 💼 Ex **Data Scientist @ MeitY (Govt. of India)**  
-- 🧠 Build **LLM‑powered AI agents, chatbots & RAG systems**  
-- 🦜 Heavy user of **LangChain, LangGraph, OpenAI APIs & vector DBs**  
-- 🛡️ **Cybersecurity for fun** – Top 2% on [TryHackMe](https://tryhackme.com/p/cybarsh)  
-- ✍️ Write about **AI + cyber** on **[Medium](https://medium.com/@cybwarrior00)**  
-- 📧 Contact: **arshsoni2002@gmail.com**
+- 🎓 **M.Sc in Mathematics & Computing** – IIT ISM Dhanbad  
+- 💼 Former **Data Scientist @ MeitY (Government of India)**  
+- 🔭 Working on **AI Agents & Chatbots** with **LangChain & LangGraph**  
+- 🤖 Interested in **LLMs, RAG systems & Generative AI**  
+- 🛡️ **Cybersecurity hobbyist** – Top 2% on [TryHackMe](https://tryhackme.com/p/cybarsh)  
+- ✍️ Writing on **[Medium](https://medium.com/@cybwarrior00)**  
+- 📧 **arshsoni2002@gmail.com**
 
 <br clear="right" />
 
 ---
 
-## 🧠 Tech Stack (Dark Ops)
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,linux,tensorflow,pytorch,git,mysql,matlab,vscode,docker&theme=dark" />
@@ -46,7 +45,7 @@
 <tr>
 <td valign="top" width="33%">
 
-#### 🤖 AI / ML Core
+#### AI / ML
 - Python, NumPy, Pandas  
 - TensorFlow, PyTorch  
 - Scikit-learn, Seaborn  
@@ -54,18 +53,18 @@
 </td>
 <td valign="top" width="33%">
 
-#### 🦜 LLM & Agents
+#### LLM & Agents
 - LangChain, LangGraph  
-- OpenAI / GPT, RAG  
-- Multi‑agent pipelines  
+- OpenAI / GPT  
+- RAG, Chatbots  
 
 </td>
 <td valign="top" width="33%">
 
-#### 🛡️ Cyber (Fun)
+#### Cyber (Fun)
 - TryHackMe (Top 2%)  
-- Kali Linux, Wireshark  
-- CTFs & attack‑defense labs  
+- Kali Linux  
+- Wireshark  
 
 </td>
 </tr>
@@ -73,7 +72,7 @@
 
 ---
 
-## 📊 GitHub Stats (Dark Mode)
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=arshsoni1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
