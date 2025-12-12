@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science & Machine Learning**
+- 🔭 I’m currently working on **AI Agents & Chatbots**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arshsoni1&show_icons=true&locale=en" alt="arshsoni1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshsoni1&" alt="arshsoni1" /></p>
