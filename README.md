@@ -1,48 +1,46 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=ARSH%20SONI&fontSize=70&color=0:8A2BE2,50:4169E1,100:00CED1&stroke=FFFFFF&strokeWidth=2&animation=fadeIn&fontColor=FFFFFF" />
-</p>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&color=4169E1&center=true&vCenter=true&width=700&height=70&lines=Data+Scientist+%F0%9F%9A%80;AI+%26+LLM+Engineer+%F0%9F%A7%A0;LangChain+%7C+LangGraph+Developer;IIT+ISM+Graduate+%F0%9F%8E%93;Cyber+Security+Enthusiast+%F0%9F%94%92" />
-</h3>
+<!-- 🧠 ARSH SONI – TECHIE PROFILE -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎯_Focus-AI_Agents_&_Chatbots-blueviolet?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/🏆_TryHackMe-Top_2%25-red?style=flat-square&labelColor=black" />
-  <img src="https://img.shields.io/badge/📍_Location-India-orange?style=flat-square&labelColor=black" />
-  <img src="https://komarev.com/ghpvc/?username=arshsoni1&color=blue&style=flat-square&label=Visitors" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=ARSH%20SONI&fontSize=70&color=0:8A2BE2,50:4169E1,100:00CED1&stroke=FFFFFF&strokeWidth=2&animation=fadeIn&fontColor=FFFFFF" />
 </p>
 
-<br>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Arsh+Soni;Data+Scientist+%7C+AI+%26+LLM+Engineer;M.Sc+Mathematics+%26+Computing+%40+IIT+ISM+Dhanbad;Building+AI+Agents+%26+Chatbots+with+LangChain+%26+LangGraph;Cyber+Security+Enthusiast+%7C+TryHackMe+Top+2%25" alt="Typing SVG" />
+</div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="480" />
+</div>
 
-### 🙋‍♂️ About Me
+<br />
 
-🎓 **M.Sc in Mathematics & Computing**  
-📍 IIT ISM Dhanbad
-
-💼 **Former Data Scientist**  
-🏢 Ministry of Electronics & IT (Govt of India)
-
-🔭 **Currently Working On**  
-🤖 AI Agents & Chatbots with LangChain  
-🦜 Advanced LLM Applications using LangGraph
-
-🌱 **Learning & Exploring**  
-✨ Generative AI & Prompt Engineering  
-🧠 Multi-Agent Systems  
-🔗 RAG (Retrieval Augmented Generation)
-
-⚡ **Fun Fact**  
-🛡️ Cybersecurity hobbyist - Top 2% on [TryHackMe](https://tryhackme.com/p/cybarsh)  
-✍️ Technical writer on [Medium](https://medium.com/@cybwarrior00)
-
-<br clear="right"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arshsoni1&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/arshsoni1?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/🎯_Focus-AI_Agents_&_Chatbots-blueviolet?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/🏹_TryHackMe-Top_2%25-red?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/📍_India-orange?style=flat-square&labelColor=000000" />
+</p>
 
 ---
 
-<h2 align="center">🔥 Tech Stack 🔥</h2>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
+
+## 🙋‍♂️ About Me
+
+- 🎓 **M.Sc in Mathematics & Computing** – IIT ISM Dhanbad  
+- 💼 Former **Data Scientist @ MeitY (Government of India)**  
+- 🔭 Currently building **AI Agents & Chatbots** using **LangChain & LangGraph**  
+- 🤖 Interested in **LLMs, RAG pipelines, multi-agent systems & Generative AI**  
+- 🛡️ **Cybersecurity hobbyist** – Top 2% on [TryHackMe](https://tryhackme.com/p/cybarsh)  
+- ✍️ Writing about AI & cyber on **[Medium](https://medium.com/@cybwarrior00)**  
+- 📧 Reach me at **arshsoni2002@gmail.com**
+
+<br clear="right" />
+
+---
+
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,linux,git,mysql,matlab,vscode,docker" />
@@ -52,28 +50,26 @@
 <tr>
 <td valign="top" width="33%">
 
-#### 🤖 AI/ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+#### 🤖 AI / ML
+- Python, NumPy, Pandas  
+- TensorFlow, PyTorch  
+- Scikit-learn, Seaborn  
 
 </td>
 <td valign="top" width="33%">
 
-#### 🦜 LLM Frameworks
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=flat)
-![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-FF6B6B?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat)
+#### 🦜 LLM & Agents
+- LangChain, LangGraph  
+- OpenAI / GPT-based apps  
+- RAG, Chatbots, Agents  
 
 </td>
 <td valign="top" width="33%">
 
-#### 🛡️ Cyber (Fun)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+#### 🛡️ Cyber (For Fun)
+- TryHackMe (Top 2%)  
+- Kali Linux  
+- Wireshark & basic pentesting  
 
 </td>
 </tr>
@@ -81,20 +77,20 @@
 
 ---
 
-<h2 align="center">📈 GitHub Performance 📈</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=arshsoni1&show_icons=true&theme=cobalt&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshsoni1&layout=compact&theme=cobalt&hide_border=true&langs_count=10" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arshsoni1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshsoni1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshsoni1&theme=high-contrast&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%">
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arshsoni1&theme=high-contrast&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+</div>
 
 ---
 
-<h2 align="center">🌐 Connect With Me 🌐</h2>
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/arsh-soni-219246288">
@@ -115,5 +111,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:4facfe&height=90&section=footer&animation=twinkling" />
 </p>
