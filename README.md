@@ -1,9 +1,5 @@
 <!-- 🧠 ARSH SONI – TECHIE PROFILE -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=ARSH%20SONI&fontSize=70&color=0:8A2BE2,50:4169E1,100:00CED1&stroke=FFFFFF&strokeWidth=2&animation=fadeIn&fontColor=FFFFFF" />
-</p>
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=1200&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Arsh+Soni;Data+Scientist+%7C+AI+%26+LLM+Engineer;M.Sc+Mathematics+%26+Computing+%40+IIT+ISM+Dhanbad;Building+AI+Agents+%26+Chatbots+with+LangChain+%26+LangGraph;Cyber+Security+Enthusiast+%7C+TryHackMe+Top+2%25" alt="Typing SVG" />
 </div>
@@ -109,6 +105,12 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:4facfe&height=90&section=footer&animation=twinkling" />
